@@ -1,6 +1,9 @@
 """1. Write a function that will double any integer (n) and return the result"""
-
-
+n = int(input())
+def double(n):
+    n = n * 2
+    return (n)
+print (double(n))
 
 
 
