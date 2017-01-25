@@ -26,3 +26,4 @@ Step 6: Give you key to a partner and create a new message.  Write down the resu
 of the encryption YOU SHOULD GET when it is run.
 
 Step 7: Run the program to determine if you were able to do it correctly (in your mind!)
+#Marcus did it correctly
