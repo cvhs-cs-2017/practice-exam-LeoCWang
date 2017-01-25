@@ -1,5 +1,4 @@
 """ Create a Turtle, name it, make it BLUE and draw a Smiley Face"""
-
 import turtle
 
 Turt = turtle.Turtle()
@@ -39,3 +38,5 @@ def SmileyFace():
 
     input()
 SmileyFace()
+from MyFile import polygon
+polygon(n)
