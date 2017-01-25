@@ -7,7 +7,9 @@ def Encrypt(plainText):
     CipherText = ""
     for i in plainText:
         if i == ' ':
+            CipherText = CipherText + '_'
         else:
             idx = alphabet.find(i)
             CipherText = CipherText + number[idx] + ' '
     return CipherText
+print (Encrypt('Any chance i could borrow a dollar until friday'))
